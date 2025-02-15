@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there, I'm Lin! 👋
 
-<!--
-**linyh1993/linyh1993** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Passionate and professional software developer.
 
-Here are some ideas to get you started:
+## 🚀 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Java**
+- **Python**
+- **Next.js**
+
+## 🌱 Currently Learning
+
+- AI Application Field
+- Creator
+
+## 📊 GitHub Stats
+
+![Lin's GitHub stats](https://github-readme-stats.vercel.app/api?username=linyh1993&show_icons=true&theme=radical)
+
+## 🌐 Connect with Me
+
+- [GitHub](https://github.com/linyh1993)
+- [LinkedIn](https://www.linkedin.com/in/yinghao-lin-ab7a141bb/)
+- [Twitter](https://x.com/lyh19931)
+
+## 📫 How to Reach Me
+
+Feel free to reach out via [email](mailto:lyhnyr1993@gmail.com) for any collaborations or just to say hi!
+
+Thanks for visiting my profile! Have a great day! 😊
+```` ▋
